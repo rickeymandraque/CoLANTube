@@ -22,7 +22,7 @@ D'autres fonctionnalités sont disponibles, comme le téléchargement temporaire
 ### 2️⃣ Installation  
 Clonez le dépôt et installez les dépendances :  
 ```sh
-git clone https://github.com/TON-GITHUB/mon-projet.git
+git clone git@github.com:rickeymandraque/CoLANTube.git
 cd mon-projet
 pip install -r requirements.txt
 ```
